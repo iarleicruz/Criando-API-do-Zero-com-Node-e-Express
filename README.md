@@ -10,7 +10,7 @@ Você verá como criar modelos de dados e implementar um CRUD (Create, Read, Upd
 
 Também abordaremos boas práticas de estruturação do código, tratamento de erros e segurança.
 
-Instalação e configuração do prisma. https://www.prisma.io/docs/getting-started - https://account.mongodb.com/account/login?signedOut=true
+Instalação e configuração do prisma https://www.prisma.io/docs/getting-started e o banco de dados MongoDB https://account.mongodb.com/account/login?signedOut=true
 
 
 Comando de instalação 
