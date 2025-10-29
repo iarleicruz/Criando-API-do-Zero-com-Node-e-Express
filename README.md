@@ -16,6 +16,7 @@ Instalação e configuração do prisma. https://www.prisma.io/docs/getting-star
 Comando de instalação 
 npm install
 npx prisma db push
+Instalar extensão Thunder Client
 
 Comando de execução
 node --watch server.cjs
