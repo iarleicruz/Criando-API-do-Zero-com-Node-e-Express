@@ -17,7 +17,7 @@ Comando de instalação
 npm install
 npx prisma db push
 Instalar extensão Thunder Client
-npm install cors
+
 
 Comando de execução
 node --watch server.cjs
