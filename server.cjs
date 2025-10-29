@@ -1,4 +1,5 @@
 const express = require ('express')
+const cors = require ('cors')
 // import { PrismaClient } from "@prisma/client"
 //import { PrismaClient } from './generated/prisma/index.js'
 //   import { PrismaClient } from './generated/prisma'
@@ -10,6 +11,7 @@ const express = require ('express')
 const prisma = new PrismaClient()
 const app = express()
 app.use(express.json())
+app.use(cors())
 // const users = []
 
 app.post('/usuarios', async (req, res) => {
